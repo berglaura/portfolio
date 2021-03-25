@@ -1,0 +1,31 @@
+.contact {
+    flex-grow: 1;
+}
+
+.contact h1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.contact iframe {
+    border: 0;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 15px;
+}
+
+.contact p {
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: 1.75em;
+}
+
+.contact h4 {
+    font-size: 1.5em;
+}
+
+@media (min-width: 800px) {
+    .contact iframe {
+        width: 60%;
+    }
+}

@@ -1,3 +1,6 @@
+Tämä sivustoni on tehty DwinaTechin Youtube-kanavalta löytyvän tutoriaalin
+mukaan https://www.youtube.com/watch?v=G9RAjvus4AY&ab_channel=DwinaTech
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

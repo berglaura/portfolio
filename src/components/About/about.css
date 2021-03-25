@@ -1,0 +1,14 @@
+.about {
+    flex-grow: 1;
+    font-size: 25px;
+}
+
+.about h1 {
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+p:last-child {
+    margin-bottom: 30px;
+}
+
