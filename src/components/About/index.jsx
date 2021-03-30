@@ -28,7 +28,7 @@ const About = () => {
                 ja pääsinkin 6 kk kestävään, tammikuussa 2021 alkavaan Highway to code -koulutukseen 
                 Oulun ammattikorkeakouluun.</p><br/>
             <p>Tätä kirjoittaessa opintoja on takana reippaat 2 kk ja kaikki on ollut 
-                ihan super innostavaa ja mielenkiintoista! Ensimmäisessä 6 viikon jaksossa 
+                ihan super-innostavaa ja mielenkiintoista! Ensimmäisessä 6 viikon jaksossa 
                 käytiin läpi HTML:n, CSS:n, JavaScriptin sekä projektitoiminnan perusteita. 
                 Nyt toisessa jaksossa on vuorossa Bootstrap, jQuery ja React sekä 
                 SQL:n ja tietokantojen perusteet. Viimeisessä jaksossa ennen työharjoittelua 

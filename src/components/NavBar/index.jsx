@@ -31,7 +31,7 @@ const NavBar = () => {
         <nav className="navbar">
             <div className="nav-wrapper">
                 <div className="logo">
-                    <img src={`${process.env.PUBLIC_URL}/logo1.png`} alt="henkilökuva"/>
+                    <img src={`${process.env.PUBLIC_URL}/logo1.png`} alt="logo"/>
                 </div>
                 <div className="list-wrapper">
                     <img src="https://github.com/DwinaTech/public-images/blob/main/menu-bars.png?raw=true" 

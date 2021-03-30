@@ -8,7 +8,7 @@ const Home = () => {
                 <h1>
                     <p>Moikka,</p>
                     <p>olen Laura.</p>
-                    <p>Tavoitteeni on oppia taitavaksi devaajaksi.</p>
+                    <p>Tavoitteenani on oppia taitavaksi devaajaksi.</p>
                 </h1>
                 <Link to="/about">
                     <button>Lisätietoja</button>
